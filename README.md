@@ -1,4 +1,4 @@
-i build this guessing a word via description app with React, tailwind and 'https://wordsapiv1.p.rapidapi.com' API.
+I build this guessing a word via description app with React, tailwind and 'https://wordsapiv1.p.rapidapi.com' API.
 
 live at https://guesstheword-10b56.web.app/
 
